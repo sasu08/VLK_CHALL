@@ -1,7 +1,7 @@
-# Voolkia challenge
+#Voolkia challenge
 
 # Descripcion
-Script en Python que genera un log con los datos de los articulos de un vendedor determinado de Mercado Libre.
+Script en Python que genera un log con los datos de los articulos de un vendedor determinado.
 
 
 # Clonar este repositorio
@@ -14,5 +14,6 @@ git clone https://github.com/sasu08/VLK_CHALL && cd VLK_CHALL
 
 - Ejecutar en consola:
 ```
-python3 main.py MLA 179571326
+- Linux: python3 main.py MLA 179571326
+- Windows: python main.py MLA 179571326
 ```
