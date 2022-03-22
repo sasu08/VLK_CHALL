@@ -1,4 +1,4 @@
-#Voolkia challenge
+# Voolkia challenge
 
 # Descripcion
 Script en Python que genera un log con los datos de los articulos de un vendedor determinado.
