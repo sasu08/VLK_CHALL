@@ -1,7 +1,7 @@
 # Voolkia challenge
 
 # Descripcion
-Script en Python que genera un log con los datos de los articulos de un vendedor determinado.
+Script en Python que genera un log con los datos de los articulos de un vendedor determinado de Mercado Libre.
 
 
 # Clonar este repositorio
